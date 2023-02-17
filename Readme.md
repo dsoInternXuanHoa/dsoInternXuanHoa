@@ -7,11 +7,11 @@
 
 <!-- GitHub Stats Card -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsoInternXuanHoa&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsoInternXuanHoa&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages Card -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsoInternXuanHoa&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsoInternXuanHoa&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌠 **Curriculum Vitae :**
 
